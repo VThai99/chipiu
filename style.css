@@ -243,6 +243,6 @@ span::before {
   background: #fff url('./assets/heartt.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100px;
+  background-size: 10px;
   mix-blend-mode: screen;
 }
